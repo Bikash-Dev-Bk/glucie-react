@@ -5,7 +5,7 @@ const FAQs = () => {
         FAQs
       </h2>
       <div className="collapse collapse-plus border-t-2 mb-5 rounded-none">
-        <input type="radio" name="my-accordion-3" checked="checked" />
+        <input type="radio" name="my-accordion-3" />
         <div className="collapse-title text-xl font-medium">
           Where is Glucie avaiable?
         </div>
