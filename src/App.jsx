@@ -1,10 +1,11 @@
 import "./App.css";
+import NavbarAndBanner from "./components/NavbarAndBanner";
 
 function App() {
 
   return (
     <>
-      <h2>Glucie</h2>
+      <NavbarAndBanner></NavbarAndBanner>
     </>
   );
 }
