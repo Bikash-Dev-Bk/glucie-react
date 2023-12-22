@@ -8,6 +8,8 @@ export default {
     extend: { 
       backgroundImage: {
         'gradient-yellow': 'linear-gradient(0deg, #F5FD00 30%, transparent 30%)',
+        'discover': "url('./assets/images/discover.png')",
+        'waitlist': "url('./assets/images/waitlist.png')",
       },
   },
   },
