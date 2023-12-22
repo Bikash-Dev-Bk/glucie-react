@@ -3,7 +3,7 @@ import bannerImage from '../assets/images/banner.png';
 
 const NavbarAndBanner = () => {
   return (
-    <div className="lg:max-w-[1400px] mx-auto flex gap-8 lg:gap-16 flex-col lg:flex-row justify-center lg:justify-between mt-5">
+    <div className=" flex gap-8 lg:gap-16 flex-col lg:flex-row justify-center lg:justify-between mt-5">
       <div className="flex-1">
         {/* Navbar   */}
         <div className="navbar">

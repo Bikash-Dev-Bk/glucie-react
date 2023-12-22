@@ -5,7 +5,7 @@ import x from "../assets/images/logo/x.svg";
 
 const Footer = () => {
   return (
-    <footer className="lg:max-w-[1400px] mx-auto bg-none lg:bg-[#E4E9F6]">
+    <footer className=" bg-none lg:bg-[#E4E9F6]">
       <div className="lg:max-w-[1100px] mx-auto pt-10 pb-10 lg:pt-20 px-5 lg:px-0">
         <div className="flex flex-col lg:flex-row justify-between mb-12 lg:mb-24">
           <div>
