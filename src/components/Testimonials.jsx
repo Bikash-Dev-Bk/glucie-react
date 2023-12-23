@@ -33,7 +33,7 @@ const Testimonials = () => {
           modifier: 1,
           slideShadows: false,
         }}
-        pagination={false}
+        pagination={true}
         modules={[EffectCoverflow, Pagination]}
         className="mySwiper lg:py-12"
       >
@@ -41,7 +41,7 @@ const Testimonials = () => {
           <img src={image1} className="w-full block" />
           <div className="content hidden mt-6">
             <h3 className="text-[22px] font-semibold">Emilie Oscar</h3>
-            <p className="text-[16px]">
+            <p className="text-[16px] mb-5">
               “Sign up to receive your sensor, download the DecodedSelf app and
               get real-time insights”
             </p>
@@ -51,7 +51,7 @@ const Testimonials = () => {
           <img src={image2} className="w-full block" />
           <div className="content hidden mt-6">
             <h3 className="text-[22px] font-semibold">Emilie Oscar</h3>
-            <p className="text-[16px]">
+            <p className="text-[16px] mb-5">
               “Sign up to receive your sensor, download the DecodedSelf app and
               get real-time insights”
             </p>
@@ -62,7 +62,7 @@ const Testimonials = () => {
           <img src={image3} className="w-full block" />
           <div className="content hidden mt-6">
             <h3 className="text-[22px] font-semibold">Emilie Oscar</h3>
-            <p className="text-[16px]">
+            <p className="text-[16px] mb-5">
               “Sign up to receive your sensor, download the DecodedSelf app and
               get real-time insights”
             </p>
